@@ -1,2 +1,2 @@
 # Test
-A & B
+A and B
